@@ -1,0 +1,4 @@
+#+TITLE: sarcasm
+
+Converts text for use in the [[https://knowyourmeme.com/memes/mocking-spongebob][mocking Spongebob]] meme. Random-sih
+captilization.
