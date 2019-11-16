@@ -1,7 +1,7 @@
 from setuptools import setup
 setup(
     name='sarcasm',
-    version='1.0.4',
+    version='1.0.5',
     description='Converts text to format for mocking spongebob meme',
     author='Jake Vossen',
     scripts=['bin/sarcasm'],

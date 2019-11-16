@@ -1,3 +1,4 @@
+#!/usr/local/bin/python3
 import string
 import random
 str = input('Input your string: ')
