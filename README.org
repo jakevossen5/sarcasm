@@ -2,3 +2,12 @@
 
 Converts text for use in the [[https://knowyourmeme.com/memes/mocking-spongebob][mocking Spongebob]] meme. Random-sih
 captilization.
+
+* Installation
+
+Using [[https://brew.sh][homebrew]]: =brew install jakevossen5/taps/sarcasm=
+
+* Usage
+
+Just run =sarcasm= in you shell, then enter the string you want to be
+converted.
